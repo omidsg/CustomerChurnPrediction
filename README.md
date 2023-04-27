@@ -1,5 +1,26 @@
-# CustomerChurnPrediction
-<h3 align="center">Ensemble Classification using Balanced Data to Predict Customer Churn: A Case Study on the Telecom Industry</h3>
+
+# Ensemble Classification using Balanced Data to Predict Customer Churn: A Case Study on the Telecom Industry
+
+we use data mining classification methods, such as neural network, K-nearest neighbor, support vector machine, logistic regression, decision tree, and random forest. The results are analyzed using various criteria such as accuracy, precision, recall, F1-score, and ROC curve.
+The contribution of this project is to examine the performance of classifiers before and after data balancing. After determining the successful classifiers, we combine them with the AdaBoost and XGBoost methods.The most effective combinations are identified according to all evaluation criteria. Our results show that the use of a hybrid classifier with the help of AdaBoost and XGBoost significantly improves performance.
+
+
+## Prerequisites
+
+* Install Anaconda
+   * make sure you dont have python in your system.
+   * https://docs.anaconda.com/free/anaconda/install/index.html
+   
+* Instal Tensorflow
+   
+   * Open Git Bash and write command below
+   
+```bash
+  pip install tensorflow
+```
+   * Now open file in the Jupyter Notebook
+   
+   
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
