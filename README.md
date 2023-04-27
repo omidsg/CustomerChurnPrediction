@@ -17,10 +17,42 @@ The contribution of this project is to examine the performance of classifiers be
    
 ```bash
   pip install tensorflow
+  pip install pandas
+  pip install numpy
+  pip install seaborn
 ```
    * Now open file in the Jupyter Notebook
    
-   
+
+## The topics investigated in this project
+
+* Data Preprocessing
+for data preprocessing, the missing values and duplicate fields were first deleted.Some dataset features have Yes/No values.We converted the values of such features to 0/1.Another important preprocessing is for multi-value features.
+
+* Data Balancing
+
+Data imbalance is one of the most common problems in classification. It occurs when the proportions of the samples belonging to the classes are significantly different from each other. For example, if 90% of the data belongs to the class of loyal customers (class 0) and 10% belongs to the class of churned customers (class 1), then the dataset is unbalanced. One general method for data balancing is oversampling. Replacement of minority class samples is used here. It does not require additional information and uses the existing data to balance the training set. One of the disadvantages of this method is the increase in the size of the training set, which leads to an increase in the learning time of the classifier.
+
+* Baseline Classification Methods
+
+  * Neural Network
+  * K-nearest Neighbors
+  * Support Vector Machines
+  * Logistic Regression
+  * Decision Tree
+  * Random Forest
+  * AdaBoost
+  * XGBoost
+  * Ensemble learning
+
+* Analysis of results
+
+  * Precision
+  * Recall
+  * Accuracy
+  * F-measure
+  * ROC Curve
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
