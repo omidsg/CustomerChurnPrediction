@@ -1,9 +1,9 @@
 # CustomerChurnPrediction
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Ensemble Classification using Balanced Data to Predict Customer Churn: A Case Study on the Telecom Industry</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/omidsg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omidsg" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/omid-sg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omid-sg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
