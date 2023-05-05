@@ -27,6 +27,7 @@ The contribution of this project is to examine the performance of classifiers be
 ## The topics investigated in this project
 
 * Data Preprocessing
+
 for data preprocessing, the missing values and duplicate fields were first deleted.Some dataset features have Yes/No values.We converted the values of such features to 0/1.Another important preprocessing is for multi-value features.
 
 * Data Balancing
